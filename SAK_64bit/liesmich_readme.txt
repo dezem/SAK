@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Dezember 2018
 ********************************************************************************************************************************
 
-Version: beta v0.5
+Version: beta v0.5.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -68,6 +68,10 @@ Beta v0.5: (12.12.2018)
 - FAT32 Format eingefügt
 - Update Funktion
 
+Beta v0.5.1: (18.12.2018)
+- Möglichkeit prod.keys für 4NXCI zu verwenden
+- *please wait* Nachricht beim konvertieren von XCI nach NSP
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -87,7 +91,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - December 2018
 ********************************************************************************************************************************
 
-Version: beta v0.5
+Version: beta v0.5.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -148,6 +152,10 @@ Beta v0.5: (12.12.2018)
 - XCI to NSP converting (keys.dat required)
 - FAT32 Format implemented
 - Update feature
+
+Beta v0.5.1: (18.12.2018)
+- possibility to use prod.keys for 4NXCI
+- added *please wait* message at converting XCI to NSP process
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
