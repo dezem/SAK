@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Dezember 2018
 ********************************************************************************************************************************
 
-Version: beta v0.5.1
+Version: beta v0.6
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -29,6 +29,9 @@ Immer mit Quellenangabe zum original Forum-Thread (siehe nachfolgenden Support L
 Wichtige Infos: (hinzugefügte Tools die nicht von mir sind):
 4NXCI - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/4NXCI
+
+hactool - Hier gilt das Danke an SciresM für die Entwicklung und das bereitstellen des Tools.
+Quelle: https://github.com/SciresM/hactool
 
 FAT32 Format - Danke geht an Ridgecrop Consultants Ltd für die GUI Version vom FAT32 Format Tool.
 Quelle: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -122,6 +125,13 @@ Beta v0.5.1: (18.12.2018)
 - Möglichkeit prod.keys für 4NXCI zu verwenden
 - *please wait* Nachricht beim konvertieren von XCI nach NSP
 
+Beta v0.6: (28.12.2018)
+- Entpacke Firmware Update aus XCI
+- XCI to NSP converting changes:
+  - Dateiname automatisch umbenannt
+  - Möglichkeit direkt für FAT32 zu splitten
+  - Möglichkeit direkt auf USB zu splitten
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -142,7 +152,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - December 2018
 ********************************************************************************************************************************
 
-Version: beta v0.5.1
+Version: beta v0.6
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -165,6 +175,9 @@ Always with reference to the original forum thread (see Support Link below)
 Important notices: (included tools that are not from me):
 4NXCI - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
+
+hactool - The respect goes to SciresM for developing and providing the tool.
+Quelle: https://github.com/SciresM/hactool
 
 FAT32 Format - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
 Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -256,6 +269,13 @@ Beta v0.5: (12.12.2018)
 Beta v0.5.1: (18.12.2018)
 - possibility to use prod.keys for 4NXCI
 - added *please wait* message at converting XCI to NSP process
+
+Beta v0.6: (28.12.2018)
+- Extract firmware update from XCI
+- XCI to NSP converting changes:
+  - filename auto renaming
+  - possibility to directly split for FAT32
+  - possibility to directly split to USB
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
