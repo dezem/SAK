@@ -127,7 +127,7 @@ Beta v0.5.1: (18.12.2018)
 
 Beta v0.6: (28.12.2018)
 - Entpacke Firmware Update aus XCI
-- XCI to NSP converting changes:
+- XCI in NSP konvertieren Anpassungen:
   - Dateiname automatisch umbenannt
   - Möglichkeit direkt für FAT32 zu splitten
   - Möglichkeit direkt auf USB zu splitten
