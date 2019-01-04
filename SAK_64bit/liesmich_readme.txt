@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Dezember 2018
+*** Switch Army Knife (SAK) by kempa - Januar 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6
+Version: beta v0.6.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -132,6 +132,9 @@ Beta v0.6: (28.12.2018)
   - Möglichkeit direkt für FAT32 zu splitten
   - Möglichkeit direkt auf USB zu splitten
 
+Beta v0.6.1: (04.01.2019)
+- kleine Korrekturen und Optimierungen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -149,10 +152,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - December 2018
+*** Switch Army Knife (SAK) by kempa - January 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6
+Version: beta v0.6.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -276,6 +279,9 @@ Beta v0.6: (28.12.2018)
   - filename auto renaming
   - possibility to directly split for FAT32
   - possibility to directly split to USB
+
+Beta v0.6.1: (04.01.2019)
+- small fixes and optimizations
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
