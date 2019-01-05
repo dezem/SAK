@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Januar 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.2
+Version: beta v0.6.2.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -138,6 +138,9 @@ Beta v0.6.1: (04.01.2019)
 Beta v0.6.2: (05.01.2019)
 - Korrektur fürs konvertieren XCI -> NSP immer in den SAK Ordner
 
+Beta v0.6.2.1: (05.01.2019)
+- Kleine Korrektur fürs ausführen bei 4nxci
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -158,7 +161,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - January 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.2
+Version: beta v0.6.2.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -288,6 +291,9 @@ Beta v0.6.1: (04.01.2019)
 
 Beta v0.6.2: (05.01.2019)
 - fix for converting XCI -> NSP always to SAK folder
+
+Beta v0.6.2.1: (05.01.2019)
+- small fix for 4nxci execution
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
