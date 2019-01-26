@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Januar 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.2.1
+Version: beta v0.6.3
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -141,6 +141,14 @@ Beta v0.6.2: (05.01.2019)
 Beta v0.6.2.1: (05.01.2019)
 - Kleine Korrektur fürs ausführen bei 4nxci
 
+Beta v0.6.3: (26.01.2019)
+- 4nxci update auf neue Version 3.0
+- 4nxci freier Speicherplatz wird vor konvertieren geprüft
+- Entpacke FW freier Speicherplatz wird vorher geprüft
+- Anzeige der benötigten Zeit für den gesammten Prozess
+- Erzwungene Administratorberechtigungen wurden von SAK entfernt.
+  Falls du Probleme haben solltest, so starte SAK als Administrator!
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -161,7 +169,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - January 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.2.1
+Version: beta v0.6.3
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -294,6 +302,14 @@ Beta v0.6.2: (05.01.2019)
 
 Beta v0.6.2.1: (05.01.2019)
 - small fix for 4nxci execution
+
+Beta v0.6.3: (26.01.2019)
+- 4nxci update to new version 3.0
+- 4nxci check free disk space before converting
+- Extract FW from XCI check free disk space
+- Show needed time for the complete action
+- Removed required administrator rights from SAK
+  If you have problems, run SAK as administrator!
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
