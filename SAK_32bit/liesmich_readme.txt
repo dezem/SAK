@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Januar 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.3
+Version: beta v0.6.3.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -149,6 +149,10 @@ Beta v0.6.3: (26.01.2019)
 - Erzwungene Administratorberechtigungen wurden von SAK entfernt.
   Falls du Probleme haben solltest, so starte SAK als Administrator!
 
+Beta v0.6.3.1: (29.01.2019)
+- 4nxci update auf neue Version 3.1
+- Beim konvertieren von XCI nach NSP wird die Funktion für die Titelbenennung von 4nxci genutzt
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -169,7 +173,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - January 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.3
+Version: beta v0.6.3.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -310,6 +314,10 @@ Beta v0.6.3: (26.01.2019)
 - Show needed time for the complete action
 - Removed required administrator rights from SAK
   If you have problems, run SAK as administrator!
+
+Beta v0.6.3.1: (29.01.2019)
+- 4nxci update to new version 3.1
+- At converting process XCI to NSP now using titelnaming feature from 4nxci
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
