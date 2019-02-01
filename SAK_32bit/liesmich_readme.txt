@@ -150,8 +150,11 @@ Beta v0.6.3: (26.01.2019)
   Falls du Probleme haben solltest, so starte SAK als Administrator!
 
 Beta v0.6.3.1: (29.01.2019)
-- 4nxci update auf neue Version 3.1
+- 4nxci update auf neue Version 3.01
 - Beim konvertieren von XCI nach NSP wird die Funktion für die Titelbenennung von 4nxci genutzt
+
+Kleines Update: (01.02.2019)
+- 4nxci update auf neue Version 3.05
 
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
@@ -316,8 +319,11 @@ Beta v0.6.3: (26.01.2019)
   If you have problems, run SAK as administrator!
 
 Beta v0.6.3.1: (29.01.2019)
-- 4nxci update to new version 3.1
+- 4nxci update to new version 3.01
 - At converting process XCI to NSP now using titelnaming feature from 4nxci
+
+Small update: (01.02.2019)
+- 4nxci update to new version 3.05
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
