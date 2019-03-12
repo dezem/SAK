@@ -2,5 +2,5 @@
 0xe1530fe47f34bfb18c7c01ce60010c7ff80652dd bin\guiformat.exe
 0x6180ad1424f7aeb44fa8a3e9150bae2e44f51d7c bin\hactool.exe
 0x21fe8a2cb89ead5f4439a7ac46f24166f16253ef bin\LICENSE
-0x0f7d6dc198ca9fd059fe09d3d857ea3a34cd0957 liesmich_readme.txt
+0xe52dcfa3990c6543da9e9a4b1e7e45180b525519 liesmich_readme.txt
 0x125711ed609ba0bc2a17f2a7d9a07d40e9508d5d SAK.exe
