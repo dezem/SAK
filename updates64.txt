@@ -1,4 +1,4 @@
-0xc2ae421232f58b107e7e61992ac36fa99926d68b bin\4nxci.exe
+0x4477b9cc078b78fd9f8bcc262864949fc41836ed bin\4nxci.exe
 0x12b87737a7d066ea82c2d3c3889015f037d1da29 bin\guiformat.exe
 0x6180ad1424f7aeb44fa8a3e9150bae2e44f51d7c bin\hactool.exe
 0x21fe8a2cb89ead5f4439a7ac46f24166f16253ef bin\LICENSE
