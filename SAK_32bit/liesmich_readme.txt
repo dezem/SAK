@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Februar 2019
+*** Switch Army Knife (SAK) by kempa - März 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.3.1
+Version: beta v0.6.4
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -162,6 +162,10 @@ Kleines Update: (05.02.2019)
 Kleines Update: (12.03.2019)
 - 4nxci update auf neue Version 4.0
 
+Beta v0.6.4: (25.03.2019)
+- Beim konvertieren von XCI nach NSP
+  Ausgabe von Fehlermeldung für fehlerhafte/fehlende Einträge in der prod.keys
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -179,10 +183,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - February 2019
+*** Switch Army Knife (SAK) by kempa - March 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.3.1
+Version: beta v0.6.4
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -336,6 +340,10 @@ Small update: (05.02.2019)
 
 Small update: (12.03.2019)
 - 4nxci update to new version 4.0
+
+Beta v0.6.4: (25.03.2019)
+- At converting process XCI to NSP
+  Output failure message for incorrect/missing entries in prod.keys
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
