@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - März 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.4
+Version: beta v0.6.4.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -166,6 +166,9 @@ Beta v0.6.4: (25.03.2019)
 - Beim konvertieren von XCI nach NSP
   Ausgabe von Fehlermeldung für fehlerhafte/fehlende Einträge in der prod.keys
 
+Beta v0.6.4.1: (26.03.2019)
+- Fix für falsche Meldung von fehlerhafte/fehlende Einträge in der prod.keys beim XCI nach NSP konvertieren
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -186,7 +189,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - March 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.4
+Version: beta v0.6.4.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -344,6 +347,9 @@ Small update: (12.03.2019)
 Beta v0.6.4: (25.03.2019)
 - At converting process XCI to NSP
   Output failure message for incorrect/missing entries in prod.keys
+
+Beta v0.6.4.1: (26.03.2019)
+- Fix for wrong incorrect/missing prod.keys message at XCI to NSP converting
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
