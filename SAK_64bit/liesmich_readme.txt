@@ -76,6 +76,14 @@ keys.dat/prod.keys wird benötigt
 Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/76547
 
+*** Für Firmware entpacken gilt:
+keys.dat/prod.keys wird benötigt
+Datei muss in XCI vorliegen
+
+***  Für NSP auf niedrige FW patche gilt:
+keys.dat/prod.keys wird benötigt
+Datei muss in NSP vorliegen
+
 *** Für NSP splitten gilt:
 Die gesplitteten Dateien werden in einem Ordner mit fortlaufender Nummer abgelegt.
 Als Bezug für den Ordnername, wird der aktuelle NSP Dateiname genommen und mit "splitted" ergänzt
@@ -177,7 +185,7 @@ Kleines Update: (01.04.2019)
 
 Beta v0.6.5: (12.04.2019)
 - kleine Fehlerbehebungen für SAK
-- Neue Funktion hinzufüget NSP auf niedrige Firmware patchen
+- Neue Funktion hinzugefüget NSP auf niedrige Firmware patchen
 
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
@@ -267,6 +275,14 @@ Extensions.xc0 and .xci.00 are accepted
 *** Converting XCI to NSP:
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+
+*** Für Firmware entpacken:
+keys.dat / prod.keys is required
+File must be as XCI
+
+***  Patch NSP to lower firm:
+keys.dat / prod.keys is required
+File must be as NSP
 
 *** Split NSP:
 The split files are stored in a folder with a sequential number.
