@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - April 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.4.1
+Version: beta v0.6.5
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -29,6 +29,9 @@ Immer mit Quellenangabe zum original Forum-Thread (siehe nachfolgenden Support L
 Wichtige Infos: (hinzugefügte Tools die nicht von mir sind):
 4NXCI - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/4NXCI
+
+reNXpack - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
+Quelle: https://github.com/The-4n/reNXpack
 
 hactool - Hier gilt das Danke an SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/SciresM/hactool
@@ -172,6 +175,10 @@ Beta v0.6.4.1: (26.03.2019)
 Kleines Update: (01.04.2019)
 - 4nxci update auf neue Version 4.01
 
+Beta v0.6.5: (12.04.2019)
+- kleine Fehlerbehebungen für SAK
+- Neue Funktion hinzufüget NSP auf niedrige Firmware patchen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -192,7 +199,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - April 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.4.1
+Version: beta v0.6.5
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -216,8 +223,11 @@ Important notices: (included tools that are not from me):
 4NXCI - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
 
+reNXpack - The respect goes to The-4n and SciresM for developing and providing the tool.
+Source: https://github.com/The-4n/reNXpack
+
 hactool - The respect goes to SciresM for developing and providing the tool.
-Quelle: https://github.com/SciresM/hactool
+Source: https://github.com/SciresM/hactool
 
 FAT32 Format - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
 Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -357,6 +367,10 @@ Beta v0.6.4.1: (26.03.2019)
 Small update: (01.04.2019)
 - 4nxci update to new version 4.01
 
+Beta v0.6.5: (12.04.2019)
+- small fixes for SAK
+- Added new feature patch nsp to lower firm
+    
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
