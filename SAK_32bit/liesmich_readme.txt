@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - April 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.5
+Version: beta v0.6.5.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -187,6 +187,11 @@ Beta v0.6.5: (12.04.2019)
 - kleine Fehlerbehebungen für SAK
 - Neue Funktion hinzugefüget NSP auf niedrige Firmware patchen
 
+Beta v0.6.5.1: (21.04.2019)
+- kleine Änderungen for reNXpack at SAK
+- 4nxci update to new version 4.03
+- reNXpack update to new version 1.16
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -207,7 +212,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - April 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.5
+Version: beta v0.6.5.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -386,7 +391,12 @@ Small update: (01.04.2019)
 Beta v0.6.5: (12.04.2019)
 - small fixes for SAK
 - Added new feature patch nsp to lower firm
-    
+
+Beta v0.6.5.1: (21.04.2019)
+- small changes for reNXpack at SAK
+- 4nxci update to new version 4.03
+- reNXpack update to new version 1.16
+
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
