@@ -188,9 +188,9 @@ Beta v0.6.5: (12.04.2019)
 - Neue Funktion hinzugefüget NSP auf niedrige Firmware patchen
 
 Beta v0.6.5.1: (21.04.2019)
-- kleine Änderungen for reNXpack at SAK
-- 4nxci update to new version 4.03
-- reNXpack update to new version 1.16
+- kleine Änderungen für reNXpack in SAK
+- 4nxci update auf neue Version 4.03
+- reNXpack update auf neue Version 1.16
 
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
