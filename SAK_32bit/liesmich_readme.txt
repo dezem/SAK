@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - April 2019
+*** Switch Army Knife (SAK) by kempa - Juni 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.5.1
+Version: beta v0.6.6
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -27,17 +27,20 @@ Das 7zip Archiv darf nicht verändert werden
 Immer mit Quellenangabe zum original Forum-Thread (siehe nachfolgenden Support Link)
 
 Wichtige Infos: (hinzugefügte Tools die nicht von mir sind):
-4NXCI - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
+4NXCI (4nxci.exe) - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/4NXCI
 
-reNXpack - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
-Quelle: https://github.com/The-4n/reNXpack
+FAT32 Format (guiformat.exe) - Danke geht an Ridgecrop Consultants Ltd für die GUI Version vom FAT32 Format Tool.
+Quelle: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
-hactool - Hier gilt das Danke an SciresM für die Entwicklung und das bereitstellen des Tools.
+hactool (hactool.exe) - Hier gilt das Danke an SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/SciresM/hactool
 
-FAT32 Format - Danke geht an Ridgecrop Consultants Ltd für die GUI Version vom FAT32 Format Tool.
-Quelle: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+NSC_BUILDER (squirrel.exe) - Hier gilt das Danke an julesontheroad für die Entwicklung und das bereitstellen des Tools.
+Quelle: https://github.com/julesontheroad/NSC_BUILDER
+
+reNXpack (renxpack.exe) - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
+Quelle: https://github.com/The-4n/reNXpack
 
 ********************************************************************************************************************************
 
@@ -51,7 +54,10 @@ Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch e
 
 - XCI splitten / zusammenfügen
 - XCI nach NSP konvertieren
+- Firmware von XCI entpacken
+- NSP patchen
 - NSP splitten
+- NSP nach XCI konvertieren
 - SD Karte in FAT32 formatieren
 
 *** Generell gilt:
@@ -91,6 +97,12 @@ Als Bezug für den Ordnername, wird der aktuelle NSP Dateiname genommen und mit "
 Können nun auch direkt auf die µSD Karte via USB Reader gesplittet werden.
 
 Das Archivbit wird automatisch gesetzt.
+
+*** Für NSP nach XCI konvertieren gilt:
+nur Spiele unterstützt
+keys.dat/prod.keys wird benötigt
+Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/76547
 
 *** FAT32 Format:
 Wenn du beim formatieren der SD Karte einen Fehler erhälst.
@@ -192,6 +204,9 @@ Beta v0.6.5.1: (21.04.2019)
 - 4nxci update auf neue Version 4.03
 - reNXpack update auf neue Version 1.16
 
+Beta v0.6.6: (23.06.2019)
+- Neue Funktion hinzugefüget NSP nach XCI konvertieren
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -209,10 +224,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - April 2019
+*** Switch Army Knife (SAK) by kempa - June 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.5.1
+Version: beta v0.6.6
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -233,17 +248,20 @@ The 7zip archive must not be changed
 Always with reference to the original forum thread (see Support Link below)
 
 Important notices: (included tools that are not from me):
-4NXCI - The respect goes to The-4n and SciresM for developing and providing the tool.
+4NXCI (4nxci.exe) - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
 
-reNXpack - The respect goes to The-4n and SciresM for developing and providing the tool.
-Source: https://github.com/The-4n/reNXpack
+FAT32 Format (guiformat.exe) - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
+Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
 
-hactool - The respect goes to SciresM for developing and providing the tool.
+hactool (hactool.exe) - The respect goes to SciresM for developing and providing the tool.
 Source: https://github.com/SciresM/hactool
 
-FAT32 Format - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
-Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
+NSC_BUILDER (squirrel.exe) - The respect goes to julesontheroad for developing and providing the tool.
+Source: https://github.com/julesontheroad/NSC_BUILDER
+
+reNXpack (renxpack.exe) - The respect goes to The-4n and SciresM for developing and providing the tool.
+Source: https://github.com/The-4n/reNXpack
 
 ********************************************************************************************************************************
 
@@ -257,7 +275,10 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
 - Split / merge XCI
 - Convert XCI to NSP
+- Extract Firmware from XCI
+- Patch NSP
 - Split NSP
+- Convert NSP to XCI
 - Format the SD card in FAT32
 
 *** Generally:
@@ -281,7 +302,7 @@ Extensions.xc0 and .xci.00 are accepted
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
 
-*** Für Firmware entpacken:
+*** Firmware extraction:
 keys.dat / prod.keys is required
 File must be as XCI
 
@@ -296,6 +317,11 @@ As reference for the folder name, the current NSP file name is taken and added w
 Can now be split directly to the ?SD card over USB card reader.
 
 The archive bit is set automatically.
+
+*** Converting NSP to XCI:
+only games supported
+keys.dat / prod.keys is required
+How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
 
 *** FAT32 Format:
 If you get an error when formatting the SD card.
@@ -396,6 +422,9 @@ Beta v0.6.5.1: (21.04.2019)
 - small changes for reNXpack at SAK
 - 4nxci update to new version 4.03
 - reNXpack update to new version 1.16
+
+Beta v0.6.6: (23.06.2019)
+- Added new feature NSP to XCI converting
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
