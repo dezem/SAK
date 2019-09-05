@@ -114,7 +114,7 @@ Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/76547
 Dein save Ordner von der User Partition (HacDiskMount oder via Homebrew Tool)
 Mittels HacDiskMount, schaut dazu hier vorbei
-psxtools.de/index.php/Thread/IDBLAAAAA
+psxtools.de/index.php/Thread/80260
 
 *** FAT32 Format:
 Wenn du beim formatieren der SD Karte einen Fehler erhälst.
@@ -350,7 +350,7 @@ How to get the keys from your switch, look here psxtools.de/index.php/Thread/765
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
 YOur save folder from the User partition (HacDiskMount or Homebrew Tool)
-By HacDiskMount, look here psxtools.de/index.php/Thread/IDBLAAAAA
+By HacDiskMount, look here psxtools.de/index.php/Thread/80260
 
 *** FAT32 Format:
 If you get an error when formatting the SD card.
