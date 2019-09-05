@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Juni 2019
+*** Switch Army Knife (SAK) by kempa - September 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.6
+Version: beta v0.6.7
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -39,6 +39,9 @@ Quelle: https://github.com/SciresM/hactool
 NSC_BUILDER (squirrel.exe) - Hier gilt das Danke an julesontheroad für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/julesontheroad/NSC_BUILDER
 
+LibHac (hactoolnet.exe) - Hier gilt das Danke an Thealexbarney für die Entwicklung und das bereitstellen des Tools.
+https://github.com/Thealexbarney
+
 reNXpack (renxpack.exe) - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/reNXpack
 
@@ -58,6 +61,7 @@ Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch e
 - NSP patchen
 - NSP splitten
 - NSP nach XCI konvertieren
+- Extrahiere deine Switch Savegames diese du von der User Partition kopiert hast
 - SD Karte in FAT32 formatieren
 
 *** Generell gilt:
@@ -103,6 +107,14 @@ nur Spiele unterstützt
 keys.dat/prod.keys wird benötigt
 Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/76547
+
+*** Für Saves extrahiere gilt:
+keys.dat/prod.keys wird benötigt
+Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/76547
+Dein save Ordner von der User Partition (HacDiskMount oder via Homebrew Tool)
+Mittels HacDiskMount, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/IDBLAAAAA
 
 *** FAT32 Format:
 Wenn du beim formatieren der SD Karte einen Fehler erhälst.
@@ -209,7 +221,11 @@ Beta v0.6.6: (23.06.2019)
 
 Kleines Update: (10.07.2019)
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.87c
- 
+
+Beta v0.6.7: (05.09.2019)
+- Neue Funktion hinzugefüget extrahiere Saves von der User Partition
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.89b
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -227,10 +243,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - June 2019
+*** Switch Army Knife (SAK) by kempa - September 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.6
+Version: beta v0.6.7
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -263,6 +279,9 @@ Source: https://github.com/SciresM/hactool
 NSC_BUILDER (squirrel.exe) - The respect goes to julesontheroad for developing and providing the tool.
 Source: https://github.com/julesontheroad/NSC_BUILDER
 
+LibHac (hactoolnet.exe) - The respect goes to Thealexbarney for developing and providing the tool.
+https://github.com/Thealexbarney
+
 reNXpack (renxpack.exe) - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/reNXpack
 
@@ -282,6 +301,7 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Patch NSP
 - Split NSP
 - Convert NSP to XCI
+- Extracting Switch savegames which you have copied from your User partition
 - Format the SD card in FAT32
 
 *** Generally:
@@ -325,6 +345,12 @@ The archive bit is set automatically.
 only games supported
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+
+*** Extracting saves:
+keys.dat / prod.keys is required
+How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+YOur save folder from the User partition (HacDiskMount or Homebrew Tool)
+By HacDiskMount, look here psxtools.de/index.php/Thread/IDBLAAAAA
 
 *** FAT32 Format:
 If you get an error when formatting the SD card.
@@ -431,7 +457,11 @@ Beta v0.6.6: (23.06.2019)
 
 Small update: (10.07.2019)
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.87c
- 
+
+Beta v0.6.7: (05.09.2019)
+- Added new feature extract saves form the User partition
+- NSC_BUILDER (only squirrel.exe) update to new Version 0.89b
+
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
