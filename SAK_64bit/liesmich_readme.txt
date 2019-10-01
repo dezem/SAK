@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - September 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.7
+Version: beta v0.6.8
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -57,9 +57,10 @@ Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch e
 
 - XCI splitten / zusammenfügen
 - XCI nach NSP konvertieren
+- Update XCI mit Spiele update
 - Firmware von XCI entpacken
 - NSP patchen
-- NSP splitten
+- NSP splitten / zusammenfügen
 - NSP nach XCI konvertieren
 - Extrahiere deine Switch Savegames diese du von der User Partition kopiert hast
 - SD Karte in FAT32 formatieren
@@ -81,6 +82,9 @@ Können auch direkt auf die µSD Karte via USB Reader gesplittet werden.
 *** XCI zusammenfügen gilt:
 Dateiendungen.xc0 und .xci.00 werden akzeptiert
 
+*** Update XCI mit Spiele Update gilt:
+Dein gedumptes Spiel als XCI und dass neuste Update als NSP
+
 *** Für XCI nach NSP konvertieren gilt:
 keys.dat/prod.keys wird benötigt
 Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
@@ -101,6 +105,10 @@ Als Bezug für den Ordnername, wird der aktuelle NSP Dateiname genommen und mit "
 Können nun auch direkt auf die µSD Karte via USB Reader gesplittet werden.
 
 Das Archivbit wird automatisch gesetzt.
+
+** Für NSP zusammenfügen gilt:
+Dein gesplittete NSP (00).
+Alle anderen werden automatisch gewählt.
 
 *** Für NSP nach XCI konvertieren gilt:
 nur Spiele unterstützt
@@ -226,6 +234,10 @@ Beta v0.6.7: (05.09.2019)
 - Neue Funktion hinzugefüget extrahiere Saves von der User Partition
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.89b
 
+Beta v0.6.8: (01.10.2019)
+- Neue Funktion hinzugefüget update XCI mit Spiele Update
+- Neue Funktion hinzugefüget NSP zusammenfügen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -246,7 +258,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - September 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.7
+Version: beta v0.6.8
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -296,10 +308,11 @@ Support: On psxtools.de (https://psxtools.de/index.php/Thread/77281)
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
 - Split / merge XCI
+- Update XCI with game update
 - Convert XCI to NSP
 - Extract Firmware from XCI
 - Patch NSP
-- Split NSP
+- Split / merge NSP
 - Convert NSP to XCI
 - Extracting Switch savegames which you have copied from your User partition
 - Format the SD card in FAT32
@@ -321,6 +334,9 @@ Can also be split directly to the ?SD card over the USB card reader.
 *** Merge XCI :
 Extensions.xc0 and .xci.00 are accepted
 
+*** Update XCI :
+Needed your dumped game as XCI and the latest update as NSP
+
 *** Converting XCI to NSP:
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
@@ -340,6 +356,10 @@ As reference for the folder name, the current NSP file name is taken and added w
 Can now be split directly to the ?SD card over USB card reader.
 
 The archive bit is set automatically.
+
+** Merge NSP:
+Your splitted NSP only select the (00) file.
+All others are automatically selected.
 
 *** Converting NSP to XCI:
 only games supported
@@ -461,6 +481,10 @@ Small update: (10.07.2019)
 Beta v0.6.7: (05.09.2019)
 - Added new feature extract saves form the User partition
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.89b
+
+Beta v0.6.8: (01.10.2019)
+- Added new feature update XCI with game update
+- Added new feature merge NSP
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
