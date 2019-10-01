@@ -217,7 +217,7 @@ Kleines Update: (01.04.2019)
 
 Beta v0.6.5: (12.04.2019)
 - kleine Fehlerbehebungen für SAK
-- Neue Funktion hinzugefüget NSP auf niedrige Firmware patchen
+- Neue Funktion hinzugefügt NSP auf niedrige Firmware patchen
 
 Beta v0.6.5.1: (21.04.2019)
 - kleine Änderungen für reNXpack in SAK
@@ -225,18 +225,18 @@ Beta v0.6.5.1: (21.04.2019)
 - reNXpack update auf neue Version 1.16
 
 Beta v0.6.6: (23.06.2019)
-- Neue Funktion hinzugefüget NSP nach XCI konvertieren
+- Neue Funktion hinzugefügt NSP nach XCI konvertieren
 
 Kleines Update: (10.07.2019)
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.87c
 
 Beta v0.6.7: (05.09.2019)
-- Neue Funktion hinzugefüget extrahiere Saves von der User Partition
+- Neue Funktion hinzugefügt extrahiere Saves von der User Partition
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.89b
 
 Beta v0.6.8: (01.10.2019)
-- Neue Funktion hinzugefüget update XCI mit Spiele Update
-- Neue Funktion hinzugefüget NSP zusammenfügen
+- Neue Funktion hinzugefügt update XCI mit Spiele Update
+- Neue Funktion hinzugefügt NSP zusammenfügen
 
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
