@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - September 2019
+*** Switch Army Knife (SAK) by kempa - Oktober 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8
+Version: beta v0.6.8.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -238,6 +238,10 @@ Beta v0.6.8: (01.10.2019)
 - Neue Funktion hinzugefügt update XCI mit Spiele Update
 - Neue Funktion hinzugefügt NSP zusammenfügen
 
+Beta v0.6.8.1: (04.10.2019)
+- Fix falsche gui Titel
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.90d
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -255,10 +259,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - September 2019
+*** Switch Army Knife (SAK) by kempa - October 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8
+Version: beta v0.6.8.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -485,6 +489,10 @@ Beta v0.6.7: (05.09.2019)
 Beta v0.6.8: (01.10.2019)
 - Added new feature update XCI with game update
 - Added new feature merge NSP
+
+Beta v0.6.8.1: (04.10.2019)
+- Fix wrong gui titles
+- NSC_BUILDER (only squirrel.exe) update to new Version 0.90d
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
