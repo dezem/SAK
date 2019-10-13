@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Oktober 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8.1
+Version: beta v0.6.8.2
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -242,6 +242,10 @@ Beta v0.6.8.1: (04.10.2019)
 - Fix falsche gui Titel
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.90d
 
+Beta v0.6.8.2: (13.10.2019)
+- Kleiner fix Update XCI
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.93
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -262,7 +266,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - October 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8.1
+Version: beta v0.6.8.2
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -494,6 +498,10 @@ Beta v0.6.8.1: (04.10.2019)
 - Fix wrong gui titles
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.90d
 
+Beta v0.6.8.2: (13.10.2019)
+- Small fix Update XCI
+- NSC_BUILDER (only squirrel.exe) update to new Version 0.93
+    
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
