@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Oktober 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8.2
+Version: beta v0.7
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -56,12 +56,14 @@ Support: Auf psxtools.de (https://psxtools.de/index.php/Thread/77281)
 Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch einfach jonglieren.
 
 - XCI splitten / zusammenfügen
-- XCI nach NSP konvertieren
 - Update XCI mit Spiele update
+- XCI nach NSP konvertieren
+- Komprimiere XCI nach XCZ
 - Firmware von XCI entpacken
 - NSP patchen
 - NSP splitten / zusammenfügen
 - NSP nach XCI konvertieren
+- Komprimiere NSP nach NSZ
 - Extrahiere deine Switch Savegames diese du von der User Partition kopiert hast
 - SD Karte in FAT32 formatieren
 
@@ -90,6 +92,11 @@ keys.dat/prod.keys wird benötigt
 Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/76547
 
+** Für XCI nach XCZ komprimieren gilt:
+keys.dat/prod.keys wird benötigt
+Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/76547
+
 *** Für Firmware entpacken gilt:
 keys.dat/prod.keys wird benötigt
 Datei muss in XCI vorliegen
@@ -112,6 +119,11 @@ Alle anderen werden automatisch gewählt.
 
 *** Für NSP nach XCI konvertieren gilt:
 nur Spiele unterstützt
+keys.dat/prod.keys wird benötigt
+Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/76547
+
+** Für NSP nach NSZ komprimieren gilt:
 keys.dat/prod.keys wird benötigt
 Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/76547
@@ -246,6 +258,14 @@ Beta v0.6.8.2: (13.10.2019)
 - Kleiner fix Update XCI
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.93
 
+Beta v0.7: (21.10.2019)
+- SAK Haupt GUI überarbeitet
+- SAK Logo hinzugefügt
+- Neue Funktion hinzugefügt komprimiere XCI nach XCZ
+- Neue Funktion hinzugefügt komprimiere NSP nach NSZ
+- hactoolnet update auf neue Version 0.6.0
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.95
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -266,7 +286,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - October 2019
 ********************************************************************************************************************************
 
-Version: beta v0.6.8.2
+Version: beta v0.7
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -318,10 +338,12 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Split / merge XCI
 - Update XCI with game update
 - Convert XCI to NSP
+- Compress XCI to XCZ
 - Extract Firmware from XCI
 - Patch NSP
 - Split / merge NSP
 - Convert NSP to XCI
+- Compress NSP to NSZ
 - Extracting Switch savegames which you have copied from your User partition
 - Format the SD card in FAT32
 
@@ -349,6 +371,10 @@ Needed your dumped game as XCI and the latest update as NSP
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
 
+*** Compress XCI to XCZ:
+keys.dat / prod.keys is required
+How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+
 *** Firmware extraction:
 keys.dat / prod.keys is required
 File must be as XCI
@@ -371,6 +397,10 @@ All others are automatically selected.
 
 *** Converting NSP to XCI:
 only games supported
+keys.dat / prod.keys is required
+How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+
+*** Compress NSP to NSZ:
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
 
@@ -501,7 +531,15 @@ Beta v0.6.8.1: (04.10.2019)
 Beta v0.6.8.2: (13.10.2019)
 - Small fix Update XCI
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.93
-    
+
+Beta v0.7: (21.10.2019)
+- Redesign SAK Main GUI
+- Added SAK logo
+- Added new feature compress XCI to XCZ
+- Added new feature compress NSP to NSZ
+- hactoolnet update to new version 0.6.0
+- NSC_BUILDER (only squirrel.exe) update to new version 0.95
+
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
