@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - November 2019
 ********************************************************************************************************************************
 
-Version: beta v0.7.1
+Version: beta v0.7.2
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -284,8 +284,9 @@ Beta v0.7.1: (26.10.2019)
 - Neue Funktion hinzugefügt dekomprimiere NSZ nach NSP
 - Code Bereinigung
 
-Kleines Update: (17.11.2019)
+Beta v0.7.2: (17.11.2019)
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.96c
+- Splash Screen zu SAK hinzugefügt
 
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
@@ -307,7 +308,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - November 2019
 ********************************************************************************************************************************
 
-Version: beta v0.7.1
+Version: beta v0.7.2
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -577,8 +578,9 @@ Beta v0.7.1: (26.10.2019)
 - Added new feature decompress NSZ to NSP
 - Code cleanup
 
-Small update: (17.11.2019)
+Beta v0.7.2: (17.11.2019)
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.96c
+- Added splash screen to SAK
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
