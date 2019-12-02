@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - November 2019
+*** Switch Army Knife (SAK) by kempa - Dezember 2019
 ********************************************************************************************************************************
 
-Version: beta v0.7.3
+Version: beta v0.7.3.1
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -291,6 +291,11 @@ Beta v0.7.2: (17.11.2019)
 Beta v0.7.3: (22.11.2019)
 - Änderungen bei Update XCI mit Spiele Update + DLC's (Mehrfachauswahl möglich)
 
+Beta v0.7.3.1: (02.12.2019)
+- Kleiner fix bei extrahiere Saves
+- hactoolnet update auf neue Version 0.7.0
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.96d
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -308,10 +313,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - November 2019
+*** Switch Army Knife (SAK) by kempa - December 2019
 ********************************************************************************************************************************
 
-Version: beta v0.7.3
+Version: beta v0.7.3.1
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -587,6 +592,11 @@ Beta v0.7.2: (17.11.2019)
 
 Beta v0.7.3: (22.11.2019)
 - Changes for Update XCI with game update + dlc's (multiselect possible)
+
+Beta v0.7.3.1: (02.12.2019)
+- Small fix at extract saves
+- hactoolnet update to new version 0.7.0
+- NSC_BUILDER (only squirrel.exe) update to new version 0.96d
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
