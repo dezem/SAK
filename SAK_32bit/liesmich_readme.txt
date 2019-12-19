@@ -296,6 +296,9 @@ Beta v0.7.3.1: (02.12.2019)
 - hactoolnet update auf neue Version 0.7.0
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.96d
 
+Kleines Update: (19.12.2019)
+- NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.97
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -597,6 +600,9 @@ Beta v0.7.3.1: (02.12.2019)
 - Small fix at extract saves
 - hactoolnet update to new version 0.7.0
 - NSC_BUILDER (only squirrel.exe) update to new version 0.96d
+
+Small update: (19.12.2019)
+- NSC_BUILDER (only squirrel.exe) update to new Version 0.97
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
