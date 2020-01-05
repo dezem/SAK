@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Dezember 2019
+*** Switch Army Knife (SAK) by kempa - Januar 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.3.1
+Version: beta v0.7.4
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -63,6 +63,7 @@ Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch e
 - Firmware von XCI entpacken
 - NSP patchen
 - NSP splitten / zusammenfügen
+- Update NSP mit Spiele update + DLC's
 - NSP nach XCI konvertieren
 - Komprimiere NSP nach NSZ
 - Dekomprimiere NSZ nach NSP
@@ -123,6 +124,9 @@ Das Archivbit wird automatisch gesetzt.
 ** Für NSP zusammenfügen gilt:
 Dein gesplittete NSP (00).
 Alle anderen werden automatisch gewählt.
+
+*** Update NSP mit Spiele Update gilt:
+Dein gedumptes Spiel als NSP, neuste Update als NSP und optional deine gedumpten DLC's als NSP
 
 *** Für NSP nach XCI konvertieren gilt:
 nur Spiele unterstützt
@@ -299,6 +303,10 @@ Beta v0.7.3.1: (02.12.2019)
 Kleines Update: (19.12.2019)
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 0.97
 
+Beta v0.7.4: (05.01.2020)
+- Neue Funktion hinzugefügt update NSP mit Spiele Update
+- hactoolnet update auf neue Version 0.8.0
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -316,10 +324,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - December 2019
+*** Switch Army Knife (SAK) by kempa - January 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.3.1
+Version: beta v0.7.4
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -376,6 +384,7 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Extract Firmware from XCI
 - Patch NSP
 - Split / merge NSP
+- Update NSP with game update and dlc's
 - Convert NSP to XCI
 - Compress NSP to NSZ
 - Decompress NSZ to NSP
@@ -396,10 +405,10 @@ The new file name will be append with "_splitted".
 
 Can also be split directly to the ?SD card over the USB card reader.
 
-*** Merge XCI :
+*** Merge XCI:
 Extensions.xc0 and .xci.00 are accepted
 
-*** Update XCI :
+*** Update XCI:
 Needed your dumped game as XCI, the latest update as NSP optionally your dumped DLC's as NSP
 
 *** Converting XCI to NSP:
@@ -433,6 +442,9 @@ The archive bit is set automatically.
 ** Merge NSP:
 Your splitted NSP only select the (00) file.
 All others are automatically selected.
+
+*** Update NSP:
+Needed your dumped game as NSP, the latest update as NSP optionally your dumped DLC's as NSP
 
 *** Converting NSP to XCI:
 only games supported
@@ -603,6 +615,10 @@ Beta v0.7.3.1: (02.12.2019)
 
 Small update: (19.12.2019)
 - NSC_BUILDER (only squirrel.exe) update to new Version 0.97
+
+Beta v0.7.4: (05.01.2020)
+- Added new feature Update NSP with game update
+- hactoolnet update to new version 0.8.0
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation

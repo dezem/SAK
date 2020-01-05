@@ -13,6 +13,7 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Extract Firmware from XCI
 - Patch NSP
 - Split / merge NSP
+- Update NSP with game update and dlc's
 - Convert NSP to XCI
 - Compress NSP to NSZ
 - Decompress NSZ to NSP
