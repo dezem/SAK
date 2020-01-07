@@ -307,6 +307,9 @@ Beta v0.7.4: (05.01.2020)
 - Neue Funktion hinzugefügt update NSP mit Spiele Update
 - hactoolnet update auf neue Version 0.8.0
 
+Kleines Update: (07.01.2020)
+- hactoolnet update auf neue Version 0.8.1
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -619,6 +622,9 @@ Small update: (19.12.2019)
 Beta v0.7.4: (05.01.2020)
 - Added new feature Update NSP with game update
 - hactoolnet update to new version 0.8.0
+
+Small update: (07.01.2020)
+- hactoolnet update to new version 0.8.1
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
