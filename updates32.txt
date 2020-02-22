@@ -1,6 +1,6 @@
 0x2e2c9fc487e0ce3d964627041ce98c94771d529b bin\4nxci.exe
 0xe1530fe47f34bfb18c7c01ce60010c7ff80652dd bin\guiformat.exe
-0xa04dfea30e91c8cd3790309ad8759f5333094571 bin\hactool.exe
+0xd469138420b88dcc812da87efc3f853410ba495c bin\hactool.exe
 0x0f388e89a05f72d2cdabb524cab2418f9ba85c1e bin\hactoolnet.exe
 0xdf5131a26c6b18506275ebacc6c64dd029a119dc bin\renxpack.exe
 0x3bd253fef6a3827e0b338b0c2db7cbd5d587a526 bin\squirrel.exe
