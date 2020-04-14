@@ -317,6 +317,10 @@ Kleines Update: (20.01.2020)
 Kleines Update: (22.02.2020)
 - hactool update auf neue Version 1.3.1
 
+Kleines Update: (14.04.2020)
+- hactool update auf neue Version 1.3.3
+- hactoolnet update auf neue Version 0.10.0
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -639,6 +643,10 @@ Small update: (20.01.2020)
 
 Small update: (22.02.2020)
 - hactool update to new version 1.3.1
+
+Small update: (14.04.2020)
+- hactool update to new version 1.3.3
+- hactoolnet update to new version 0.10.0
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
