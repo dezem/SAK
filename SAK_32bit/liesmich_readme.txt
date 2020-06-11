@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Februar 2020
+*** Switch Army Knife (SAK) by kempa - Juni 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.4
+Version: beta v0.7.5
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -55,6 +55,7 @@ Support: Auf psxtools.de (https://psxtools.de/index.php/Thread/77281)
 
 Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch einfach jonglieren.
 
+- XCI patchen
 - XCI splitten / zusammenfügen
 - Update XCI mit Spiele update + DLC's
 - XCI nach NSP konvertieren
@@ -75,6 +76,10 @@ Alle Dateien werden immer im Ordner von SAK erstellt.
 Es werden nur XCI + NSP Dateien >= 4GB zum splitten akzeptiert.
 Alle < 4GB macht dass splitten ja auch kein Sinn!
 
+***  Für XCI auf niedrige FW patche gilt:
+keys.dat/prod.keys wird benötigt
+Datei muss in XCI vorliegen
+
 *** Für XCI splitten gilt:
 XCI können in voller Größe oder getrimmt gesplittet werden.
 Getrimmt bedeutet, dass der leere Speicherplatz am Ende entfernt wird.
@@ -88,7 +93,7 @@ Können auch direkt auf die µSD Karte via USB Reader gesplittet werden.
 Dateiendungen.xc0 und .xci.00 werden akzeptiert
 
 *** Update XCI mit Spiele Update gilt:
-Dein gedumptes Spiel als XCI, neuste Update als NSP und optional deine gedumpten DLC's als NSP
+Dein gedumptes Spiel als XCI, neuste Update als NSP/NSZ und optional deine gedumpten DLC's als NSP
 
 *** Für XCI nach NSP konvertieren gilt:
 keys.dat/prod.keys wird benötigt
@@ -126,7 +131,7 @@ Dein gesplittete NSP (00).
 Alle anderen werden automatisch gewählt.
 
 *** Update NSP mit Spiele Update gilt:
-Dein gedumptes Spiel als NSP, neuste Update als NSP und optional deine gedumpten DLC's als NSP
+Dein gedumptes Spiel als NSP, neuste Update als NSP/NSZ und optional deine gedumpten DLC's als NSP
 
 *** Für NSP nach XCI konvertieren gilt:
 nur Spiele unterstützt
@@ -321,6 +326,12 @@ Kleines Update: (14.04.2020)
 - hactool update auf neue Version 1.3.3
 - hactoolnet update auf neue Version 0.10.0
 
+Beta v0.7.5: (11.06.2020)
+- Änderungen update NSP/XCI mit Spiele Update unterstütz nun Updates als NSZ
+- Neue Funktion hinzugefügt XCI auf niedrige Firmware patchen
+- hactool update auf neue Version 1.4.0
+- hactoolnet update auf neue Version 0.11.3
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -338,10 +349,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - February 2020
+*** Switch Army Knife (SAK) by kempa - June 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.4
+Version: beta v0.7.5
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -390,6 +401,7 @@ Support: On psxtools.de (https://psxtools.de/index.php/Thread/77281)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
+- XCI NSP
 - Split / merge XCI
 - Update XCI with game update and dlc's
 - Convert XCI to NSP
@@ -410,6 +422,10 @@ All files are always created in the folder of SAK.
 Only XCI + NSP files >= 4GB are accepted for splitting.
 All files < 4GB makes splitting no sense!
 
+***  Patch XCI to lower firm:
+keys.dat / prod.keys is required
+File must be as XCI
+
 *** Split XCI:
 XCI can be split in full size or trimmed.
 Trimmed means that the empty space at the end will be removed.
@@ -423,7 +439,7 @@ Can also be split directly to the ?SD card over the USB card reader.
 Extensions.xc0 and .xci.00 are accepted
 
 *** Update XCI:
-Needed your dumped game as XCI, the latest update as NSP optionally your dumped DLC's as NSP
+Needed your dumped game as XCI, the latest update as NSP/NSZ optionally your dumped DLC's as NSP
 
 *** Converting XCI to NSP:
 keys.dat / prod.keys is required
@@ -458,7 +474,7 @@ Your splitted NSP only select the (00) file.
 All others are automatically selected.
 
 *** Update NSP:
-Needed your dumped game as NSP, the latest update as NSP optionally your dumped DLC's as NSP
+Needed your dumped game as NSP, the latest update as NSP/NSZ optionally your dumped DLC's as NSP
 
 *** Converting NSP to XCI:
 only games supported
@@ -647,6 +663,12 @@ Small update: (22.02.2020)
 Small update: (14.04.2020)
 - hactool update to new version 1.3.3
 - hactoolnet update to new version 0.10.0
+
+Beta v0.7.5: (11.06.2020)
+- Changes Update NSP/XCI with game update now support Updates as NSZ
+- Added new feature patch XCI to lower firm
+- hactool update to new version 1.4.0
+- hactoolnet update to new version 0.11.3
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
