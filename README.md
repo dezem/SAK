@@ -5,6 +5,7 @@ Switch Army Knife (SAK)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
+- Patch XCI
 - Split / merge XCI
 - Update XCI with game update and dlc's
 - Convert XCI to NSP
