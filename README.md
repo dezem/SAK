@@ -27,6 +27,23 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 The code was completely developed by me.
 So the tool can be published completely free and legal!
 
+## Virus reports from SAK
+It's a false positive.
+SAK.exe is completely free of virus or other malware.
+It nothing collect / share or do anything else.
+
+Reports:
+32 Bit Version:
+https://www.virustotal.com/gui/file/14e08c36df84b40beaf5059d8d90986268b63f0e040df739ec8245ea59716708/detection
+
+64 Bit Version:
+https://www.virustotal.com/gui/file/6dce890ecdb0edc2eee234493e20ab0615c544c0b0d13c3887089496e5285d5c/detection
+
+Report it to your AV manufacturer.
+Temporary add it to the ignore list of your AV tool.
+If you are unsure:
+You can also run it on a single minimal windows vm like virtualbox with nothing else installed.
+
 ### Prerequisite for this:
 The 7zip archive must not be changed
 Always with reference to the original forum thread (see Link below)
