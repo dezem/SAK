@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Oktober 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.6
+Version: beta v0.7.7
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -333,10 +333,14 @@ Beta v0.7.5: (11.06.2020)
 - hactoolnet update auf neue Version 0.11.3
 
 Beta v0.7.6: (26.10.2020)
-- Änderungen _patch wird beim patchen von XCI oder NSP angefügt"
+- Änderungen _patch wird beim patchen von XCI oder NSP angefügt
 - NSC_BUILDER (nur squirrel.exe) update auf neue Version 1.01b
 - hactoolnet update auf neue Version 0.12.0
 
+Beta v0.7.7: (31.12.2020)
+- Fix beim patchen von NSP mit anfügen von _patch
+- NSC_BUILDER (nur squirrel.exe) auf alte version 0.96d
+    
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -357,7 +361,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - October 2020
 ********************************************************************************************************************************
 
-Version: beta v0.7.6
+Version: beta v0.7.7
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -679,6 +683,10 @@ Beta v0.7.6: (26.10.2020)
 - Changes add _patch label if you use the patch XCI or NSP option
 - NSC_BUILDER (only squirrel.exe) update to new version 1.01b
 - hactoolnet update to new version 0.12.0
+
+Beta v0.7.7: (31.12.2020)
+- Small fix for patching NSP with changing label _patch
+- NSC_BUILDER (only squirrel.exe) revert to version 0.96d
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
