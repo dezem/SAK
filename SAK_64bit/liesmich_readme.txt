@@ -339,7 +339,7 @@ Beta v0.7.6: (26.10.2020)
 
 Beta v0.7.7: (31.12.2020)
 - Fix beim patchen von NSP mit anfügen von _patch
-- NSC_BUILDER (nur squirrel.exe) auf alte version 0.96d
+- NSC_BUILDER (nur squirrel.exe) auf alte version 0.98b
     
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
@@ -686,7 +686,7 @@ Beta v0.7.6: (26.10.2020)
 
 Beta v0.7.7: (31.12.2020)
 - Small fix for patching NSP with changing label _patch
-- NSC_BUILDER (only squirrel.exe) revert to version 0.96d
+- NSC_BUILDER (only squirrel.exe) revert to version 0.98b
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
