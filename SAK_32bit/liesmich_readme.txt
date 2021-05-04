@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Oktober 2020
+*** Switch Army Knife (SAK) by kempa - Mai 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.7
+Version: beta v0.7.8
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -29,6 +29,14 @@ Immer mit Quellenangabe zum original Forum-Thread (siehe nachfolgenden Support L
 Wichtige Infos: (hinzugefügte Tools die nicht von mir sind):
 4NXCI (4nxci.exe) - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/4NXCI
+
+hacBrewPack (hacbrewpack.exe) - Hier gilt das Danke an The-4n für die Entwicklung und das bereitstellen des Tools.
+Quelle: https://github.com/The-4n/hacBrewPack
+
+switchbrew (nx-hbloader) - Hier gilt das Danke an switchbrew Team, R-YaTian und HookedBehemoth für die Entwicklung und das bereitstellen des nx-hbloader/forks.
+Quelle: https://github.com/switchbrew/nx-hbloader
+Quelle: https://github.com/R-YaTian/nro-forwarder
+Quelle: https://github.com/HookedBehemoth/nx-hbloader
 
 FAT32 Format (guiformat.exe) - Danke geht an Ridgecrop Consultants Ltd für die GUI Version vom FAT32 Format Tool.
 Quelle: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -69,6 +77,7 @@ Mit diesem Switch Taschenmesser könnt ihr eure Inhalt XCI/NSP von eurer Switch e
 - Komprimiere NSP nach NSZ
 - Dekomprimiere NSZ nach NSP
 - Extrahiere deine Switch Savegames diese du von der User Partition kopiert hast
+- Erstelle NRO forwarder als installierbare NSP Datei
 - SD Karte in FAT32 formatieren
 
 *** Generell gilt:
@@ -156,6 +165,15 @@ psxtools.de/index.php/Thread/76547
 Dein save Ordner von der User Partition (HacDiskMount oder via Homebrew Tool)
 Mittels HacDiskMount, schaut dazu hier vorbei
 psxtools.de/index.php/Thread/80260
+
+*** NRO forwarder:
+keys.dat/prod.keys wird benötigt
+Wie ihr die von euerer Switch erhaltet, schaut dazu hier vorbei
+psxtools.de/index.php/Thread/76547
+icon als jpg/jpeg Auflösung 256x256
+Um eigene startup Logos zu nutzen, erstelle einen Ordner "custom" bei der SAK.exe.
+Platziere hier die Dateien als "NintendoLogo.png" und "StartupMovie.gif".
+Als Beispiel schaue in den "bin" Ordner.
 
 *** FAT32 Format:
 Wenn du beim formatieren der SD Karte einen Fehler erhälst.
@@ -340,7 +358,10 @@ Beta v0.7.6: (26.10.2020)
 Beta v0.7.7: (31.12.2020)
 - Fix beim patchen von NSP mit anfügen von _patch
 - NSC_BUILDER (nur squirrel.exe) auf alte version 0.98b
-    
+
+Beta v0.7.8: (04.05.2021)
+- Neue Funktion hinzugefügt NRO forwarder erstellen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -358,10 +379,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - October 2020
+*** Switch Army Knife (SAK) by kempa - May 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.7
+Version: beta v0.7.8
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -384,6 +405,14 @@ Always with reference to the original forum thread (see Support Link below)
 Important notices: (included tools that are not from me):
 4NXCI (4nxci.exe) - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
+
+hacBrewPack (hacbrewpack.exe) - The respect goes to The-4n for developing and providing the tool.
+Source: https://github.com/The-4n/hacBrewPack
+
+switchbrew (nx-hbloader) - The respect goes to switchbrew Team, R-YaTian and HookedBehemoth for developing and providing the nx-hbloader/forks.
+Source: https://github.com/switchbrew/nx-hbloader
+Source: https://github.com/R-YaTian/nro-forwarder
+Source: https://github.com/HookedBehemoth/nx-hbloader
 
 FAT32 Format (guiformat.exe) - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
 Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -410,7 +439,7 @@ Support: On psxtools.de (https://psxtools.de/index.php/Thread/77281)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
-- XCI NSP
+- Patch XCI
 - Split / merge XCI
 - Update XCI with game update and dlc's
 - Convert XCI to NSP
@@ -424,6 +453,7 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Compress NSP to NSZ
 - Decompress NSZ to NSP
 - Extracting Switch savegames which you have copied from your User partition
+- Create NRO forwarder as installable NSP file
 - Format the SD card in FAT32
 
 *** Generally:
@@ -501,8 +531,16 @@ How to get the keys from your switch, look here psxtools.de/index.php/Thread/765
 *** Extracting saves:
 keys.dat / prod.keys is required
 How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
-YOur save folder from the User partition (HacDiskMount or Homebrew Tool)
+Your save folder from the User partition (HacDiskMount or Homebrew Tool)
 By HacDiskMount, look here psxtools.de/index.php/Thread/80260
+
+*** NRO forwarder:
+keys.dat / prod.keys is required
+How to get the keys from your switch, look here psxtools.de/index.php/Thread/76547
+icon as jpg/jpeg resolution 256x256
+To use your own startup logo, create a dir called "custom" near SAK.exe.
+And place there your files as "NintendoLogo.png" and "StartupMovie.gif".
+For example look at "bin" dir.
 
 *** FAT32 Format:
 If you get an error when formatting the SD card.
@@ -687,6 +725,9 @@ Beta v0.7.6: (26.10.2020)
 Beta v0.7.7: (31.12.2020)
 - Small fix for patching NSP with changing label _patch
 - NSC_BUILDER (only squirrel.exe) revert to version 0.98b
+
+Beta v0.7.8: (04.05.2021)
+- Added new feature create NRO forwarder
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation

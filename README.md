@@ -19,9 +19,8 @@ With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 - Compress NSP to NSZ
 - Decompress NSZ to NSP
 - Extracting Switch savegames which you have copied from your User partition
+- Create NRO forwarder as installable NSP file
 - Format the SD card in FAT32
-
-
 
 ## Copyright:
 The code was completely developed by me.
@@ -52,6 +51,14 @@ Always with reference to the original forum thread (see Link below)
 ### 4NXCI (4nxci.exe)
 The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
+
+### hacBrewPack (hacbrewpack.exe) - The respect goes to The-4n for developing and providing the tool.
+Source: https://github.com/The-4n/hacBrewPack
+
+### switchbrew (nx-hbloader) - The respect goes to switchbrew Team, R-YaTian and HookedBehemoth for developing and providing the nx-hbloader/forks.
+Source: https://github.com/switchbrew/nx-hbloader
+Source: https://github.com/R-YaTian/nro-forwarder
+Source: https://github.com/HookedBehemoth/nx-hbloader
 
 ### FAT32 Format (guiformat.exe)
 Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
