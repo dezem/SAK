@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Mai 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.8
+Version: beta v0.7.9
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -362,6 +362,9 @@ Beta v0.7.7: (31.12.2020)
 Beta v0.7.8: (04.05.2021)
 - Neue Funktion hinzugefügt NRO forwarder erstellen
 
+Beta v0.7.9: (05.05.2021)
+- Funktion hinzugefügt Retroarch Core forwarder erstellen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -382,7 +385,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - May 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.8
+Version: beta v0.7.9
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -728,6 +731,9 @@ Beta v0.7.7: (31.12.2020)
 
 Beta v0.7.8: (04.05.2021)
 - Added new feature create NRO forwarder
+
+Beta v0.7.9: (05.05.2021)
+- Added feature create Retroarch Core forwarder
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
