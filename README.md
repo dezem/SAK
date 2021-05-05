@@ -33,10 +33,10 @@ It nothing collect / share or do anything else.
 
 Reports:
 32 Bit Version:
-https://www.virustotal.com/gui/file/14e08c36df84b40beaf5059d8d90986268b63f0e040df739ec8245ea59716708/detection
+https://www.virustotal.com/gui/file/a02749bc44089aef68d02718ffce0cd2563c43e599946c26eee29c4684b34bcb/detection
 
 64 Bit Version:
-https://www.virustotal.com/gui/file/6dce890ecdb0edc2eee234493e20ab0615c544c0b0d13c3887089496e5285d5c/detection
+https://www.virustotal.com/gui/file/bd6afc7f324a96f3f12355565ef190344ec9d52a88b91f9c9124907d3ac528e0/detection
 
 Report it to your AV manufacturer.
 Temporary add it to the ignore list of your AV tool.
