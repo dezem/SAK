@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Mai 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.9
+Version: beta v0.7.10
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -30,7 +30,7 @@ Wichtige Infos: (hinzugefügte Tools die nicht von mir sind):
 4NXCI (4nxci.exe) - Hier gilt das Danke an The-4n und SciresM für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/4NXCI
 
-hacBrewPack (hacbrewpack.exe) - Hier gilt das Danke an The-4n für die Entwicklung und das bereitstellen des Tools.
+hacBrewPack / hptnacp (hacbrewpack.exe / hptnacp.exe) - Hier gilt das Danke an The-4n für die Entwicklung und das bereitstellen des Tools.
 Quelle: https://github.com/The-4n/hacBrewPack
 
 switchbrew (nx-hbloader) - Hier gilt das Danke an switchbrew Team, R-YaTian und HookedBehemoth für die Entwicklung und das bereitstellen des nx-hbloader/forks.
@@ -365,6 +365,11 @@ Beta v0.7.8: (04.05.2021)
 Beta v0.7.9: (05.05.2021)
 - Funktion hinzugefügt Retroarch Core forwarder erstellen
 
+Beta v0.7.10: (14.05.2021)
+- Funktion hinzugefügt ändern der Versionsnummer im forwarder
+- Funktion hinzugefügt erlaube/verbiete Screenshots im forwarder
+- Funktion hinzugefügt aktiviere/deaktiviere Videoaufnahme im forwarder
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -385,7 +390,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - May 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.9
+Version: beta v0.7.10
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -409,7 +414,7 @@ Important notices: (included tools that are not from me):
 4NXCI (4nxci.exe) - The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
 
-hacBrewPack (hacbrewpack.exe) - The respect goes to The-4n for developing and providing the tool.
+hacBrewPack / hptnacp (hacbrewpack.exe / hptnacp.exe) - The respect goes to The-4n for developing and providing the tool.
 Source: https://github.com/The-4n/hacBrewPack
 
 switchbrew (nx-hbloader) - The respect goes to switchbrew Team, R-YaTian and HookedBehemoth for developing and providing the nx-hbloader/forks.
@@ -734,6 +739,11 @@ Beta v0.7.8: (04.05.2021)
 
 Beta v0.7.9: (05.05.2021)
 - Added feature create Retroarch Core forwarder
+
+Beta v0.7.10: (14.05.2021)
+- Added feature change version number in forwarder
+- Added feature allow/deny screenshot in forwarder
+- Added feature enable/disable video capture in forwarder
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
