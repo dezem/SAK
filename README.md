@@ -33,10 +33,10 @@ It nothing collect / share or do anything else.
 
 Reports:
 32 Bit Version:
-https://www.virustotal.com/gui/file/a02749bc44089aef68d02718ffce0cd2563c43e599946c26eee29c4684b34bcb/detection
+https://www.virustotal.com/gui/file/dd29764fc73f947b77107588537137c5ac486f8f406b1c7a0e8853dd9095a713/detection
 
 64 Bit Version:
-https://www.virustotal.com/gui/file/bd6afc7f324a96f3f12355565ef190344ec9d52a88b91f9c9124907d3ac528e0/detection
+https://www.virustotal.com/gui/file/5b10d7904472b632212ce900af538287851d2fb7b60d6caccac7a22cf7746108/detection
 
 Report it to your AV manufacturer.
 Temporary add it to the ignore list of your AV tool.
@@ -52,13 +52,14 @@ Always with reference to the original forum thread (see Link below)
 The respect goes to The-4n and SciresM for developing and providing the tool.
 Source: https://github.com/The-4n/4NXCI
 
-### hacBrewPack (hacbrewpack.exe) - The respect goes to The-4n for developing and providing the tool.
+### hacBrewPack / hptnacp (hacbrewpack.exe / hptnacp.exe) - The respect goes to The-4n for developing and providing the tool.
 Source: https://github.com/The-4n/hacBrewPack
 
 ### switchbrew (nx-hbloader) - The respect goes to switchbrew Team, R-YaTian and HookedBehemoth for developing and providing the nx-hbloader/forks.
 Source: https://github.com/switchbrew/nx-hbloader
 Source: https://github.com/R-YaTian/nro-forwarder
 Source: https://github.com/HookedBehemoth/nx-hbloader
+Source: https://github.com/dezem/nx-hbloader
 
 ### FAT32 Format (guiformat.exe)
 Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version

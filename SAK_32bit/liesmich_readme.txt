@@ -37,6 +37,7 @@ switchbrew (nx-hbloader) - Hier gilt das Danke an switchbrew Team, R-YaTian und 
 Quelle: https://github.com/switchbrew/nx-hbloader
 Quelle: https://github.com/R-YaTian/nro-forwarder
 Quelle: https://github.com/HookedBehemoth/nx-hbloader
+Quelle: https://github.com/dezem/nx-hbloader
 
 FAT32 Format (guiformat.exe) - Danke geht an Ridgecrop Consultants Ltd für die GUI Version vom FAT32 Format Tool.
 Quelle: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
@@ -421,6 +422,7 @@ switchbrew (nx-hbloader) - The respect goes to switchbrew Team, R-YaTian and Hoo
 Source: https://github.com/switchbrew/nx-hbloader
 Source: https://github.com/R-YaTian/nro-forwarder
 Source: https://github.com/HookedBehemoth/nx-hbloader
+Source: https://github.com/dezem/nx-hbloader
 
 FAT32 Format (guiformat.exe) - Thanks goes to Ridgecrop Consultants Ltd for FAT32 Format as GUI version
 Source: http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm
