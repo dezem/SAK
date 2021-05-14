@@ -1,7 +1,7 @@
 # SAK
 Switch Army Knife (SAK)
 
-![alt text](http://members.psxtools.de/kempa/sak/SAK_by_kempa_main.png)
+![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/118307982-b318e700-b4eb-11eb-93a1-e669b89f29f2.png)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
@@ -44,6 +44,7 @@ If you are unsure:
 You can also run it on a single minimal windows vm like virtualbox with nothing else installed.
 
 ### Prerequisite for this:
+
 The 7zip archive must not be changed
 Always with reference to the original forum thread (see Link below)
 
