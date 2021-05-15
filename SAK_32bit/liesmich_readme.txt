@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Mai 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.10
+Version: beta v0.7.11
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -371,6 +371,9 @@ Beta v0.7.10: (14.05.2021)
 - Funktion hinzugefügt erlaube/verbiete Screenshots im forwarder
 - Funktion hinzugefügt aktiviere/deaktiviere Videoaufnahme im forwarder
 
+Beta v0.7.11: (15.05.2021)
+- Fix einige HB-Tools nicht als forwarder gehen
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -391,7 +394,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - May 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.10
+Version: beta v0.7.11
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -746,6 +749,9 @@ Beta v0.7.10: (14.05.2021)
 - Added feature change version number in forwarder
 - Added feature allow/deny screenshot in forwarder
 - Added feature enable/disable video capture in forwarder
+
+Beta v0.7.11: (15.05.2021)
+- Fix some HB-Tools not working in forwarder
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
