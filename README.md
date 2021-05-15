@@ -1,7 +1,7 @@
 # SAK
 Switch Army Knife (SAK)
 
-![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/118307982-b318e700-b4eb-11eb-93a1-e669b89f29f2.png)
+![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/118370330-87f3cd80-b5a7-11eb-9cda-65d6753feea8.png)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
@@ -33,10 +33,10 @@ It nothing collect / share or do anything else.
 
 Reports:
 32 Bit Version:
-https://www.virustotal.com/gui/file/dd29764fc73f947b77107588537137c5ac486f8f406b1c7a0e8853dd9095a713/detection
+https://www.virustotal.com/gui/file/2c2aeca53220cf2c26959e894a33aa10d4ac1dfc8418a94fb39d9f54c2a474aa/detection
 
 64 Bit Version:
-https://www.virustotal.com/gui/file/5b10d7904472b632212ce900af538287851d2fb7b60d6caccac7a22cf7746108/detection
+https://www.virustotal.com/gui/file/7e4413d915fa8939cf49566654259d58b829460d61e79eb05b81e830ca3c1b2a/detection
 
 Report it to your AV manufacturer.
 Temporary add it to the ignore list of your AV tool.
