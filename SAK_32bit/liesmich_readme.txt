@@ -374,6 +374,9 @@ Beta v0.7.10: (14.05.2021)
 Beta v0.7.11: (15.05.2021)
 - Fix einige HB-Tools nicht als forwarder gehen
 
+Kleines Update: (21.06.2021)
+- hactoolnet update auf neue Version 0.13.0
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -752,6 +755,9 @@ Beta v0.7.10: (14.05.2021)
 
 Beta v0.7.11: (15.05.2021)
 - Fix some HB-Tools not working in forwarder
+
+Small update: (21.06.2021)
+- hactoolnet update to new version 0.13.0
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
