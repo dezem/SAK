@@ -377,6 +377,9 @@ Beta v0.7.11: (15.05.2021)
 Kleines Update: (21.06.2021)
 - hactoolnet update auf neue Version 0.13.0
 
+Kleines Update: (05.07.2021)
+- hactoolnet update auf neue Version 0.13.1
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -758,6 +761,9 @@ Beta v0.7.11: (15.05.2021)
 
 Small update: (21.06.2021)
 - hactoolnet update to new version 0.13.0
+
+Small update: (05.07.2021)
+- hactoolnet update to new version 0.13.1
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
