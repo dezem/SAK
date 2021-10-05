@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Mai 2021
+*** Switch Army Knife (SAK) by kempa - Oktober 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.11
+Version: beta v0.7.12
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -380,6 +380,13 @@ Kleines Update: (21.06.2021)
 Kleines Update: (05.07.2021)
 - hactoolnet update auf neue Version 0.13.1
 
+Beta v0.7.12: (05.10.2021)
+- Entpacke Firmware zeigt nun die Version an
+  und benennt den Ordner zu Firmware X.X.X um
+- nx-hbloader für NSP Forwarder genutzt
+  wurde mit libnx-4.2.0-master-cee75bb neu kompiliert
+- hactoolnet update auf neue Version 0.13.3
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -397,10 +404,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - May 2021
+*** Switch Army Knife (SAK) by kempa - October 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.11
+Version: beta v0.7.12
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -764,6 +771,13 @@ Small update: (21.06.2021)
 
 Small update: (05.07.2021)
 - hactoolnet update to new version 0.13.1
+
+Beta v0.7.12: (05.10.2021)
+- Extract Firmware shows now the Version
+  and renames it to Firmware X.X.X
+- nx-hbloader used for NSP Forwarder
+  recompiled with libnx-4.2.0-master-cee75bb
+- hactoolnet update to new version 0.13.3
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
