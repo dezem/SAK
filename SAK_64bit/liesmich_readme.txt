@@ -6,7 +6,7 @@
 *** Switch Army Knife (SAK) by kempa - Oktober 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.12
+Version: beta v0.7.13
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -387,6 +387,10 @@ Beta v0.7.12: (05.10.2021)
   wurde mit libnx-4.2.0-master-cee75bb neu kompiliert
 - hactoolnet update auf neue Version 0.13.3
 
+Beta v0.7.13: (08.10.2021)
+- Fix für SAK Update check
+  Wenn die liesmich vom Benutzer gelöscht wurde...verursacht ein Crash
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -407,7 +411,7 @@ Voraussetzung:
 *** Switch Army Knife (SAK) by kempa - October 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.12
+Version: beta v0.7.13
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -779,6 +783,10 @@ Beta v0.7.12: (05.10.2021)
   recompiled with libnx-4.2.0-master-cee75bb
 - hactoolnet update to new version 0.13.3
 
+Beta v0.7.13: (08.10.2021)
+- Fix internal SAK update check
+  If readme is deleted by User...causing crash
+    
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
 ********************************************************************************************************************************
