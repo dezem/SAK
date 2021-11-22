@@ -1,7 +1,7 @@
 # SAK
 Switch Army Knife (SAK)
 
-![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/136472047-96b75a51-7156-46e1-841e-2eb8cffc86c5.png)
+![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/142914512-e4a65c84-0b3e-4668-a933-faa42b3f861b.png)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
 
