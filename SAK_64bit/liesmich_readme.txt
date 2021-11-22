@@ -3,10 +3,10 @@
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - Oktober 2021
+*** Switch Army Knife (SAK) by kempa - November 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.13
+Version: beta v0.7.14
 Veröffentlicht auf psxtools.de
 
 ICH (kempa) übernehme keine Verantwortung für Schäden/Bricks jeglicher Art.
@@ -391,6 +391,9 @@ Beta v0.7.13: (08.10.2021)
 - Fix für SAK Update check
   Wenn die liesmich vom Benutzer gelöscht wurde...verursacht ein Crash
 
+Beta v0.7.14: (22.11.2021)
+- Fix für zurück ins Hauptmenü, thx Signum21
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -408,10 +411,10 @@ Voraussetzung:
 ################################################################################################################################
 
 ********************************************************************************************************************************
-*** Switch Army Knife (SAK) by kempa - October 2021
+*** Switch Army Knife (SAK) by kempa - November 2021
 ********************************************************************************************************************************
 
-Version: beta v0.7.13
+Version: beta v0.7.14
 Published on psxtools.de
 
 I (kempa) take no responsibility for damages/bricks of any kind.
@@ -786,6 +789,9 @@ Beta v0.7.12: (05.10.2021)
 Beta v0.7.13: (08.10.2021)
 - Fix internal SAK update check
   If readme is deleted by User...causing crash
+
+Beta v0.7.14: (22.11.2021)
+- Fix the return main menu bug, thx to Signum21
     
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
