@@ -811,7 +811,7 @@ Small update: (04.12.2021)
 - add fw13.2.0 nca_id
 - hactoolnet update to new version 0.14.0
 
-Small update: (04.12.2021)
+Small update: (28.01.2022)
 - add fw13.2.1 nca_id
 - hactoolnet update to new version 0.15.0
 
