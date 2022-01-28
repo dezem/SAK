@@ -401,6 +401,10 @@ Kleines Update: (04.12.2021)
 - fw13.2.0 nca_id hinzugefügt
 - hactoolnet update auf neue Version 0.14.0
 
+Kleines Update: (28.01.2022)
+- fw13.2.1 nca_id hinzugefügt
+- hactoolnet update auf neue Version 0.15.0
+
 ********************************************************************************************************************************
 *** Switch Army Knife in Betrieb nehmen
 ********************************************************************************************************************************
@@ -797,15 +801,19 @@ Beta v0.7.13: (08.10.2021)
 - Fix internal SAK update check
   If readme is deleted by User...causing crash
 
-Kleines Update: (30.10.2021)
+Small update: (30.10.2021)
 - add fw13.1.0 nca_id
 
 Beta v0.7.14: (22.11.2021)
 - Fix the return main menu bug, thx to Signum21
 
-Kleines Update: (04.12.2021)
+Small update: (04.12.2021)
 - add fw13.2.0 nca_id
 - hactoolnet update to new version 0.14.0
+
+Small update: (04.12.2021)
+- add fw13.2.1 nca_id
+- hactoolnet update to new version 0.15.0
 
 ********************************************************************************************************************************
 *** Put Switch Army Knife into operation
