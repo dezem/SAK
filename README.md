@@ -1,6 +1,15 @@
 # SAK
 Switch Army Knife (SAK)
 
+**PROJECT IS CLOSED, NO MORE UNDER MAINTENANCE**
+
+**I WILL STOP ALL MY WORK FOR ALL PROJECTS**
+
+**THANKS FOR THE TIME**
+
+**You can always replace the binaries in the bin folder.
+As soon as there are updates. This should work in most cases**
+
 ![SAK_by_kempa_main](https://user-images.githubusercontent.com/11005072/142914512-e4a65c84-0b3e-4668-a933-faa42b3f861b.png)
 
 With Switch Army Knife you can easily juggle XCI / NSP content from your switch.
